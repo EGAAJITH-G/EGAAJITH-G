@@ -1,6 +1,7 @@
 ## Hi gentlemen 👋 It's me **EGA AJITH G**
 
 <h3>Java Frontend Developer <img aline="center" width="48" height="48"  src="https://img.icons8.com/color/48/under-computer.png" alt="under-computer"/> </h3>
+<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/b8/33/78/b83378fbaf9f0ea218f9a11558b03aa4.gif"/>
 ---
 
 <!--
