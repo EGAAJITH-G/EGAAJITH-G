@@ -1,6 +1,6 @@
 ## Hi gentlemen 👋 It's me **EGA AJITH G**
 
-<h3>Java Frontend Developer <img width="66" height="66" src="https://img.icons8.com/external-flat-circle-design-circle/66/external-Developer-data-science-flat-circle-design-circle.png" alt="external-Developer-data-science-flat-circle-design-circle"/> </h3>
+<h3>Java Frontend Developer <img width="50" height="50" src="https://img.icons8.com/external-flat-circle-design-circle/66/external-Developer-data-science-flat-circle-design-circle.png" alt="external-Developer-data-science-flat-circle-design-circle"/> </h3>
 ---
 
 <!--
