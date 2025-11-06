@@ -1,4 +1,4 @@
-## Hi gentlemen 👋 It's me **EGA AJITH G**
+## Hi Gentlemen 👋 It's Me **EGA AJITH G**
 
 <h3>Java Frontend Developer <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/802b1b91-b520-4c3e-9db9-c57ba34ce165" /></h3>
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/b9/e4/96/b9e4960c1476c78043d499d975f86cdb.gif">
