@@ -10,8 +10,9 @@ KalaignarKarunanidhi Institute Of Technology Coimbatore. <br>
 B-Tech (Biotechnology) 2021 To 2025 Passout..
 
 ### 🌐 Connect With Me
-[<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/4de43227-0e68-4295-b110-4c438e37adb7" />
-](https://www.linkedin.com/in/ega-ajith-g2004)
+[<img width="45" height="45" alt="image" src="https://github.com/user-attachments/assets/4de43227-0e68-4295-b110-4c438e37adb7" />](https://www.linkedin.com/in/ega-ajith-g2004) 
+[<img width="45" height="45" alt="image" src="https://github.com/user-attachments/assets/96dd5427-0729-47eb-844f-d4d57147be8b" />]()
+[<img width="45" height="45" alt="image" src="https://github.com/user-attachments/assets/ddff312d-16af-421a-94c7-632cdc321b62" />](https://www.instagram.com/zombie_0311?igsh=MW1pempvdzZteWd3ZA==)
 
 ---
 
