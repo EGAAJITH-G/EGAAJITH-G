@@ -15,6 +15,36 @@ B-Tech (Biotechnology) 2021 To 2025 Passout..
 [<img width="45" height="45" alt="image" src="https://github.com/user-attachments/assets/ddff312d-16af-421a-94c7-632cdc321b62" />](https://www.instagram.com/zombie_0311?igsh=MW1pempvdzZteWd3ZA==)
 
 ---
+### 💻 Languages I Code In
+<p align="">
+  <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/5c3bea42-feae-478b-a755-6fe1d4eea20e" />
+  <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/be05194f-70b6-4a44-9089-a781bb28a255" />
+  <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/43f40919-0cf9-449b-91f4-d5413ed04d56" />
+  <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/adc35d65-943d-40df-9008-0d6b84f939dd" />
+</p>
+
+---
+### 🎨 Frameworks & Libraries
+<P>
+  <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/722105c1-309e-4689-af39-eb7f5fe9e48c" />
+  <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/89c85361-63e5-4caa-8cef-867b2d636e86" />
+</P>
+
+---
+### 🧰 Tools & Platforms
+<p align="">
+  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
+</p>
+
+---
+### 🎨 Design Tools
+<p align="">
+  <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/42eae306-da54-4228-bd18-6295c2982f18" />
+</p>
+
+---
+
+
 
 <!--
 **EGAAJITH-G/EGAAJITH-G** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
