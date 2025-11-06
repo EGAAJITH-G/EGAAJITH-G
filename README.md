@@ -1,7 +1,7 @@
 ## Hi gentlemen 👋 It's me **EGA AJITH G**
 
-<h3>Java Frontend Developer <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/d4fa6e7b-a1e5-4aa9-82ba-b67edee8ae25" />
-</h3>
+<h3>Java Frontend Developer <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/802b1b91-b520-4c3e-9db9-c57ba34ce165" />
+ </h3>
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/b8/33/78/b83378fbaf9f0ea218f9a11558b03aa4.gif">
 ---
 
