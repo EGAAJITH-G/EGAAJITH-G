@@ -113,11 +113,11 @@ B-Tech (Biotechnology) 2021 To 2025 Passout..
 
 <p>
 
-<a href="https://github.com/EGAAJITH-G/Resume/blob/main/ega%20ajith%20resume%20IT.pdf" target="_blank">
+<a href="https://github.com/EGAAJITH-G/Resume/blob/main/egaajith%20resume%20IT.pdf" target="_blank">
   <img src="https://img.shields.io/badge/View%20Resume-2563EB?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
 </a>
 
-<a href="https://github.com/EGAAJITH-G/Resume/raw/main/ega%20ajith%20resume%20IT.pdf">
+<a href="https://github.com/EGAAJITH-G/Resume/blob/main/egaajith%20resume%20IT.pdf">
   <img src="https://img.shields.io/badge/Download%20Resume-16A34A?style=for-the-badge&logo=googledrive&logoColor=white" />
 </a>
 
